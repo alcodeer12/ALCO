@@ -7,4 +7,11 @@
     <h1>Welcome to my website!</h1>
     <p>Here is some information about me:</p>
     <ul>
-      <li>
+      <li>My name is John</li>
+      <li>I am a software developer</li>
+      <li>I love to travel and try new foods</li>
+    </ul>
+    <p>You can contact me at <a href="mailto:john@example.com">john@example.com</a>.</p>
+  </body>
+</html>
+
